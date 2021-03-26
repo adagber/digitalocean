@@ -1,0 +1,15 @@
+{
+    "name": "adolfo/digitaloceans",
+    "description": "Test environment for Akrem",
+    "require": {
+        "aws/aws-sdk-php": "^3.176",
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adolfo",
+            "email": "adolfo.agullo@yiqqi.com"
+        }
+    ]
+}
